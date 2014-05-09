@@ -26,6 +26,17 @@ There are a smörgåsbord of videos online, just search for drupal on any of the
 
 ### Sessions from cons and camps
 
+#### Drupalcon
+
+Videos are embedded on session pages.
+
+* https://portland2013.drupal.org/program/sessions
+
+#### Camps
+
+There is a curated list of sessions available at http://www.drupalcamp24x7.org/
+
+* http://2013.drupalcampaustin.org/news/drupalcamp-austin-videos/
 * http://chicago2011.drupal.org
 * http://2011.drupalcampaustin.org
 
