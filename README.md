@@ -23,6 +23,7 @@ There are a smörgåsbord of videos online, just search for drupal on any of the
 * http://yadadrop.com/drupal-video
 * http://www.acquia.com/resources/tv
 * http://www.acquia.com/resources/recorded_webinars
+* http://replay.uci.edu/clients/drupal/?P=*.html
 
 ### Sessions from cons and camps
 
