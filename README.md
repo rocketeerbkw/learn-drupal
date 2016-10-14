@@ -4,6 +4,15 @@ A curated list of stuff to help you learn Drupal.
 
 Remember there is a lot of great info at https://drupal.org!
 
+## User Guides (Getting Started)
+
+### Drupal 8
+* User Guide - https://www.drupal.org/project/user_guide
+
+### Drupal 7
+* Drupal 7 - The Essentials - https://www.drupal.org/documentation/the-essentials-7
+* The Drupal Cookbook (for beginners) - https://www.drupal.org/documentation/customization/tutorials/beginners-cookbook
+
 ## Videos
 
 There are a smörgåsbord of videos online, just search for drupal on any of these sites: http://www.google.com/videohp, https://www.youtube.com, http://blip.tv, http://www.bing.com/videos/browse, http://video.search.yahoo.com
@@ -24,6 +33,7 @@ There are a smörgåsbord of videos online, just search for drupal on any of the
 * http://www.acquia.com/resources/tv
 * http://www.acquia.com/resources/recorded_webinars
 * http://replay.uci.edu/clients/drupal/?P=*.html
+* http://redcrackle.com/blog/drupal-8/free-tutorials-list
 
 ### Sessions from cons and camps
 
