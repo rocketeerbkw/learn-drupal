@@ -23,6 +23,8 @@ There are a smörgåsbord of videos online, just search for drupal on any of the
 * http://drupalize.me
 * https://modulesunraveled.com
 * http://www.lynda.com/Drupal-training-tutorials/186-0.html
+* https://www.ostraining.com/classes/drupal/
+* https://www.ostraining.com/classes/drupal-8/
 
 ### Learn as you go
 
