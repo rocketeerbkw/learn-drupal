@@ -37,6 +37,8 @@ There are a smörgåsbord of videos online, just search for drupal on any of the
 * [Safari Books Online](https://www.safaribooksonline.com/search/?query=drupal&sort=relevance&formats=video&highlight=true&is_academic_institution_account=false&extended_publisher_data=true&include_orioles=true&source=user)
 * [OSTraining - Drupal 7](https://www.ostraining.com/classes/drupal/)
 * [OSTraining - Drupal 8](https://www.ostraining.com/classes/drupal-8/)
+* [Multimedia Partners - Drupal 7/8 Training(http://multimediapartners.info/courses)
+
 
 ### Learn as you go
 
@@ -68,6 +70,7 @@ There is a curated list of sessions available at [24x7 Drupal Camp](http://www.d
 * [DrupalCamp Austin 2011](http://2011.drupalcampaustin.org/schedule/sessions)
 * [DrupalCamp Austin 2013](http://2013.drupalcampaustin.org/news/drupalcamp-austin-videos/)
 * [BADCamp 2015](https://www.youtube.com/playlist?list=PLY-mQxqgVZ1y4KUsRMu0hMrCWrfrbs3GB)
+* [TexasCamp 2017](http://2017.texascamp.org/)
 
 ## Development
 
