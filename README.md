@@ -37,7 +37,7 @@ There are a smörgåsbord of videos online, just search for drupal on any of the
 * [Safari Books Online](https://www.safaribooksonline.com/search/?query=drupal&sort=relevance&formats=video&highlight=true&is_academic_institution_account=false&extended_publisher_data=true&include_orioles=true&source=user)
 * [OSTraining - Drupal 7](https://www.ostraining.com/classes/drupal/)
 * [OSTraining - Drupal 8](https://www.ostraining.com/classes/drupal-8/)
-* [Multimedia Partners - Drupal 7/8 Training(http://multimediapartners.info/courses)
+* [Multimedia Partners - Drupal 7/8 Training](http://multimediapartners.info/courses)
 
 
 ### Learn as you go
