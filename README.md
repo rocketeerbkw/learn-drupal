@@ -7,7 +7,13 @@ Remember there is a lot of great info at https://drupal.org!
 ## User Guides (Getting Started)
 
 ### Drupal 8
-* [User Guide](https://www.drupal.org/project/user_guide)
+* [drupal.org - User Guide](https://www.drupal.org/docs/user_guide/en/index.html)
+* [drupal.org - Drupal 8 Documentation](https://www.drupal.org/docs/8)
+* [sqndr's Drupal 8 Theming Guide (TWIG)](http://d8.sqndr.com/index.html)
+
+
+### Advanced Drupal 8
+* [GitBook - GraphQL for Drupal (WIP)](https://fgm.gitbooks.io/graphql-for-drupal/content/)
 
 ### Drupal 7
 * [Drupal 7 - The Essentials](https://www.drupal.org/documentation/the-essentials-7)
@@ -62,6 +68,8 @@ Videos are embedded on session pages.
 * [Drupalcon Austin 2014](https://austin2014.drupal.org/schedule.html)
 * [Drupalcon Los Angeles 2015](https://events.drupal.org/losangeles2015/sessions/accepted)
 * [Drupalcon New Orleans 2016](https://events.drupal.org/neworleans2016/sessions/accepted)
+* [DrupalCon Baltimore 2017](https://www.youtube.com/watch?v=wWGJsP8hi8o&list=PLpeDXSh4nHjRbDdwHEBRHItfnjrJ8kEDK)
+* [DrupalCon Vienna 2017](https://www.youtube.com/watch?v=KKGDIgu3CC8&list=PLpeDXSh4nHjT06C3mXLZbHfgn--bQYFjS)
 
 #### Camps
 
@@ -109,7 +117,9 @@ There is a curated list of sessions available at [24x7 Drupal Camp](http://www.d
 ## Software
 
 * [Acquia Dev Desktop](http://www.acquia.com/products-services/dev-desktop)
-* [Kalabox](http://www.kalabox.io/)
+* [Amazee.io](https://docs.amazee.io/step_by_step_guides/get_your_drupal_site_running_on_amazeeio.html)
+* [Lando](https://docs.devwithlando.io/)
+
 
 ## Hosting
 
